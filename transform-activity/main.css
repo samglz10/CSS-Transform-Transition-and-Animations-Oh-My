@@ -20,6 +20,11 @@ main > div {
   
 }
 
+.container
+{
+  display: block;
+  
+}
 .info
 {
   display: block;
@@ -29,5 +34,5 @@ main > div {
 .wrapper
 {
   transform: skew(8deg, -14deg);
-  
+
 }
