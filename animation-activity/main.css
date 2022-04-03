@@ -42,3 +42,13 @@ a {
 a:hover {
   color: ghostwhite;
 }
+
+#middle{
+  display:block;
+  
+}
+#middle:hover
+{
+  display: none;
+  animation-duration: 2s infinite;
+}
