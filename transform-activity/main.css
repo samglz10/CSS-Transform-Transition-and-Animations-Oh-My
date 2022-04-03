@@ -2,6 +2,7 @@
 
 body  {
   font-family: 'Josefin Sans', sans-serif;
+  
 }
 main {
   background-color: mediumaquamarine;
@@ -16,4 +17,17 @@ main > div {
   width: 40%;
   margin: auto;
   padding: 10%;
+  
+}
+
+.info
+{
+  display: block;
+  
+}
+
+.wrapper
+{
+  transform: skew(8deg, -14deg);
+  
 }
